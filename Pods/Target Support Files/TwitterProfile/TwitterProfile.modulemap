@@ -1,0 +1,6 @@
+framework module TwitterProfile {
+  umbrella header "TwitterProfile-umbrella.h"
+
+  export *
+  module * { export * }
+}

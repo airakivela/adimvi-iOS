@@ -1,0 +1,132 @@
+
+/* Class = "UITextField"; placeholder = "Nombre de usuario"; ObjectID = "00h-ZH-ENY"; */
+"00h-ZH-ENY.placeholder" = "Nombre de usuario";
+
+/* Class = "UIButton"; normalTitle = "Términos y política de privacidad"; ObjectID = "26Z-BI-r7t"; */
+"26Z-BI-r7t.normalTitle" = "Términos y política de privacidad";
+
+/* Class = "UILabel"; text = "Escribe."; ObjectID = "3h4-ks-2aw"; */
+"3h4-ks-2aw.text" = "Escribe.";
+
+/* Class = "UIButton"; normalTitle = " Entrar"; ObjectID = "5M0-Z2-aha"; */
+"5M0-Z2-aha.normalTitle" = " Entrar";
+
+/* Class = "UILabel"; text = "Confirmo que he leído y entendido Ios"; ObjectID = "78r-gJ-8vg"; */
+"78r-gJ-8vg.text" = "Confirmo que he leído y entendido Ios";
+
+/* Class = "UILabel"; text = "Así de fácil."; ObjectID = "Amp-GX-M3Y"; */
+"Amp-GX-M3Y.text" = "Así de fácil.";
+
+/* Class = "UIButton"; normalTitle = "Información"; ObjectID = "CWs-xj-pUS"; */
+"CWs-xj-pUS.normalTitle" = "Información";
+
+/* Class = "UILabel"; text = "Registro"; ObjectID = "CsU-ST-x4B"; */
+"CsU-ST-x4B.text" = "Registro";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "EaQ-em-gcl"; */
+"EaQ-em-gcl.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "¿No tienes una cuenta?"; ObjectID = "HUg-wn-f7I"; */
+"HUg-wn-f7I.text" = "¿No tienes una cuenta?";
+
+/* Class = "UILabel"; text = "Privacidad: su dirección de correo electrónico no será compartida ni vendida a terceros.\n"; ObjectID = "J4I-9m-Ihu"; */
+"J4I-9m-Ihu.text" = "Privacidad: su dirección de correo electrónico no será compartida ni vendida a terceros.\n";
+
+/* Class = "UIButton"; normalTitle = "He olvidado mi contraseña"; ObjectID = "JbQ-VG-Yza"; */
+"JbQ-VG-Yza.normalTitle" = "He olvidado mi contraseña";
+
+/* Class = "UILabel"; text = "¿Ya tienes una cuenta?"; ObjectID = "K7Y-02-Br0"; */
+"K7Y-02-Br0.text" = "¿Ya tienes una cuenta?";
+
+/* Class = "UIButton"; normalTitle = "                     Regístrate"; ObjectID = "LNC-vY-gMB"; */
+"LNC-vY-gMB.normalTitle" = "                     Regístrate";
+
+/* Class = "UILabel"; text = "Privacidad: su dirección de correo electrónico no será compartida ni vendida a terceros."; ObjectID = "MY6-0c-nuM"; */
+"MY6-0c-nuM.text" = "Privacidad: su dirección de correo electrónico no será compartida ni vendida a terceros.";
+
+/* Class = "UINavigationItem"; title = "Registration"; ObjectID = "MYP-Nn-4cO"; */
+"MYP-Nn-4cO.title" = "Registration";
+
+/* Class = "UILabel"; text = "Escritoras, bloggers, influencers, camareros, periodistas, cocineros… En Adimvi hay espacios de todo tipo perfectos para ti y lo que buscas."; ObjectID = "N00-nO-jht"; */
+"N00-nO-jht.text" = "Escritoras, bloggers, influencers, camareros, periodistas, cocineros… En Adimvi hay espacios de todo tipo perfectos para ti y lo que buscas.";
+
+/* Class = "UITextField"; placeholder = "Contraseña"; ObjectID = "NJn-KL-OCA"; */
+"NJn-KL-OCA.placeholder" = "Contraseña";
+
+/* Class = "UILabel"; text = "Comparte."; ObjectID = "OGp-lc-nwp"; */
+"OGp-lc-nwp.text" = "Comparte.";
+
+/* Class = "UIButton"; normalTitle = "Iniciar sesión"; ObjectID = "Ocl-r0-O6C"; */
+"Ocl-r0-O6C.normalTitle" = "Iniciar sesión";
+
+/* Class = "UIButton"; normalTitle = "Contacto"; ObjectID = "P9s-ae-LLh"; */
+"P9s-ae-LLh.normalTitle" = "Contacto";
+
+/* Class = "UILabel"; text = "Para todo tipo de profesionales"; ObjectID = "QSn-w7-3nT"; */
+"QSn-w7-3nT.text" = "Para todo tipo de profesionales";
+
+/* Class = "UILabel"; text = "La nueva generación"; ObjectID = "QiZ-Hn-HD2"; */
+"QiZ-Hn-HD2.text" = "La nueva generación";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SbE-s1-p3b"; */
+"SbE-s1-p3b.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Términos y política de privacidad"; ObjectID = "TXj-6m-NEk"; */
+"TXj-6m-NEk.normalTitle" = "Términos y política de privacidad";
+
+/* Class = "UITextField"; placeholder = "Nombre de usuario"; ObjectID = "VRu-fl-grc"; */
+"VRu-fl-grc.placeholder" = "Nombre de usuario";
+
+/* Class = "UITextField"; placeholder = "Contraseña"; ObjectID = "XvY-mw-dDr"; */
+"XvY-mw-dDr.placeholder" = "Contraseña";
+
+/* Class = "UIButton"; normalTitle = "Contacto"; ObjectID = "Z7F-J7-ctg"; */
+"Z7F-J7-ctg.normalTitle" = "Contacto";
+
+/* Class = "UILabel"; text = "Adimvi © Todos los derechos reservados"; ObjectID = "fXi-rm-Sjb"; */
+"fXi-rm-Sjb.text" = "Adimvi © Todos los derechos reservados";
+
+/* Class = "UIButton"; normalTitle = "Enviar"; ObjectID = "g34-83-Oir"; */
+"g34-83-Oir.normalTitle" = "Enviar";
+
+/* Class = "UILabel"; text = "Sus comentarios o sugerencias para Adimvi:"; ObjectID = "ic6-bX-eKX"; */
+"ic6-bX-eKX.text" = "Sus comentarios o sugerencias para Adimvi:";
+
+/* Class = "UILabel"; text = "El protagonista eres tú"; ObjectID = "lgm-Tr-Kd3"; */
+"lgm-Tr-Kd3.text" = "El protagonista eres tú";
+
+/* Class = "UIButton"; normalTitle = "Regístrate"; ObjectID = "m9m-y0-j7Z"; */
+"m9m-y0-j7Z.normalTitle" = "Regístrate";
+
+/* Class = "UIButton"; normalTitle = "Términos y Condiciones."; ObjectID = "mWR-rK-YRs"; */
+"mWR-rK-YRs.normalTitle" = "Términos y Condiciones.";
+
+/* Class = "UILabel"; text = "¿Te atreves a ser lo más auténtico que has sido nunca? Crea tu espacio, personalízalo y que se note que no eres uno más."; ObjectID = "pZS-gA-HzV"; */
+"pZS-gA-HzV.text" = "¿Te atreves a ser lo más auténtico que has sido nunca? Crea tu espacio, personalízalo y que se note que no eres uno más.";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "rFv-lC-3Qh"; */
+"rFv-lC-3Qh.text" = "Terms and Conditions";
+
+/* Class = "UITextField"; placeholder = "Confirmar contraseña"; ObjectID = "rhA-mU-TYk"; */
+"rhA-mU-TYk.placeholder" = "Confirmar contraseña";
+
+/* Class = "UILabel"; text = "Bienvenido/a a la plataforma social que te permite compartir todo tipo de contenido escrito y monetizar cada una de tus publicaciones."; ObjectID = "s6M-L6-0Mk"; */
+"s6M-L6-0Mk.text" = "Bienvenido/a a la plataforma social que te permite compartir todo tipo de contenido escrito y monetizar cada una de tus publicaciones.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "se2-Qw-8QF"; */
+"se2-Qw-8QF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Monetiza."; ObjectID = "u7l-Zt-tB1"; */
+"u7l-Zt-tB1.text" = "Monetiza.";
+
+/* Class = "UILabel"; text = "Contacto"; ObjectID = "uLW-X6-kAI"; */
+"uLW-X6-kAI.text" = "Contacto";
+
+/* Class = "UILabel"; text = "Tu nombre: (opcional)\n"; ObjectID = "vgn-Wr-dyZ"; */
+"vgn-Wr-dyZ.text" = "Tu nombre: (opcional)\n";
+
+/* Class = "UIButton"; normalTitle = "Información"; ObjectID = "xsK-cp-xdU"; */
+"xsK-cp-xdU.normalTitle" = "Información";
+
+/* Class = "UILabel"; text = "Su dirección de correo electrónico: (opcional)"; ObjectID = "ysF-Op-xjg"; */
+"ysF-Op-xjg.text" = "Su dirección de correo electrónico: (opcional)";

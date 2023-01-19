@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="AddRoomCell" id="gTV-IL-0wX" customClass="AddRoomCell" customModule="Adimvi" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="100" height="132"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="100" height="132"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rgc-i9-UHr">
+                        <rect key="frame" x="0.0" y="0.0" width="100" height="132"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TN0-s8-Cgo">
+                                <rect key="frame" x="0.0" y="0.0" width="100" height="100"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plus" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="bzK-fj-eMb">
+                                        <rect key="frame" x="10" y="12" width="80" height="76"/>
+                                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="80" id="Ts4-df-LcU"/>
+                                            <constraint firstAttribute="height" constant="80" id="f0C-XT-bfW"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" name="mainGreen"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="100" id="9AM-8c-cWM"/>
+                                    <constraint firstItem="bzK-fj-eMb" firstAttribute="centerY" secondItem="TN0-s8-Cgo" secondAttribute="centerY" id="gRG-Af-JPt"/>
+                                    <constraint firstAttribute="height" constant="100" id="h45-bY-Vrs"/>
+                                    <constraint firstItem="bzK-fj-eMb" firstAttribute="centerX" secondItem="TN0-s8-Cgo" secondAttribute="centerX" id="o1F-LM-QSv"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="50"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="TN0-s8-Cgo" firstAttribute="top" secondItem="rgc-i9-UHr" secondAttribute="top" id="IRc-aB-uyB"/>
+                            <constraint firstItem="TN0-s8-Cgo" firstAttribute="leading" secondItem="rgc-i9-UHr" secondAttribute="leading" id="Mde-PD-BYT"/>
+                            <constraint firstAttribute="trailing" secondItem="TN0-s8-Cgo" secondAttribute="trailing" id="U7q-Np-Gt2"/>
+                            <constraint firstAttribute="bottom" secondItem="TN0-s8-Cgo" secondAttribute="bottom" constant="32" id="cfq-9u-4Fe"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="rgc-i9-UHr" secondAttribute="trailing" id="VrD-8f-sIR"/>
+                <constraint firstAttribute="bottom" secondItem="rgc-i9-UHr" secondAttribute="bottom" id="eRq-pX-juf"/>
+                <constraint firstItem="rgc-i9-UHr" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="h9H-gn-kvv"/>
+                <constraint firstItem="rgc-i9-UHr" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="rSn-9C-Cxo"/>
+            </constraints>
+            <size key="customSize" width="99" height="117"/>
+            <point key="canvasLocation" x="176.08695652173915" y="157.70089285714286"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="plus" catalog="system" width="128" height="113"/>
+        <namedColor name="mainGreen">
+            <color red="0.26666666666666666" green="0.61568627450980395" blue="0.58039215686274515" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

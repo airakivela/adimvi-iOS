@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EAF5F396-1720-4607-B4FA-BE7F0F37D87E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29BDE2C4-EEB9-444F-B5C0-B33E95E7F4BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adimvi/WebViewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "WebViewViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "29BDE2C4-EEB9-444F-B5C0-B33E95E7F4BB - a2c9701c796fc083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adimvi.WebViewViewController.webviewOpenUrl.getter : Swift.Optional&lt;__C.UIWebView&gt;"
+                  moduleName = "Adimvi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josemirichart/Desktop/App%20Adimvi/Codificacio%CC%81n%20app/Codificacio%CC%81n%20app%2028:01:2021/adimvi/WebViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "29BDE2C4-EEB9-444F-B5C0-B33E95E7F4BB - b6b8b64ca185848f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adimvi.WebViewViewController.webviewOpenUrl.setter : Swift.Optional&lt;__C.UIWebView&gt;"
+                  moduleName = "Adimvi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josemirichart/Desktop/App%20Adimvi/Codificacio%CC%81n%20app/Codificacio%CC%81n%20app%2028:01:2021/adimvi/WebViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "29BDE2C4-EEB9-444F-B5C0-B33E95E7F4BB - 5eb6d02fbaeea19e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adimvi.WebViewViewController.webviewOpenUrl.modify : Swift.Optional&lt;__C.UIWebView&gt;"
+                  moduleName = "Adimvi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josemirichart/Desktop/App%20Adimvi/Codificacio%CC%81n%20app/Codificacio%CC%81n%20app%2028:01:2021/adimvi/WebViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "29BDE2C4-EEB9-444F-B5C0-B33E95E7F4BB - 166cb20df480a72d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adimvi.WebViewViewController.webviewOpenUrl.modify : Swift.Optional&lt;__C.UIWebView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Adimvi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josemirichart/Desktop/App%20Adimvi/Codificacio%CC%81n%20app/Codificacio%CC%81n%20app%2028:01:2021/adimvi/WebViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "29BDE2C4-EEB9-444F-B5C0-B33E95E7F4BB - bbe75c26f8cb938a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adimvi.WebViewViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Adimvi.WebViewViewController"
+                  moduleName = "Adimvi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josemirichart/Desktop/App%20Adimvi/Codificacio%CC%81n%20app/Codificacio%CC%81n%20app%2028:01:2021/adimvi/WebViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "370">
+               </Location>
+               <Location
+                  uuid = "29BDE2C4-EEB9-444F-B5C0-B33E95E7F4BB - 6844908c5f8aa4f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Adimvi.WebViewViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Adimvi.WebViewViewController&gt;"
+                  moduleName = "Adimvi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josemirichart/Desktop/App%20Adimvi/Codificacio%CC%81n%20app/Codificacio%CC%81n%20app%2028:01:2021/adimvi/WebViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "311">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B9A845D-7C32-4785-9F04-12FCF4201538"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "adimvi/PostDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>153502508878-v89k35ofc96r8k08came3gr1vg59fj1o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.153502508878-v89k35ofc96r8k08came3gr1vg59fj1o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMplVLOCYGrfjKFXTB8sWW3TRTcS31Zxg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>153502508878</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Adimvi.com</string>
+	<key>PROJECT_ID</key>
+	<string>adimvi-plataforma-blogging</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adimvi-plataforma-blogging.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:153502508878:ios:90db219a478b585f8c201f</string>
+	<key>DATABASE_URL</key>
+	<string>https://adimvi-plataforma-blogging.firebaseio.com</string>
+</dict>
+</plist>

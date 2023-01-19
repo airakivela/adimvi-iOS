@@ -1,0 +1,6 @@
+framework module Pods_adimviUITests {
+  umbrella header "Pods-adimviUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
